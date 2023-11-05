@@ -8,6 +8,9 @@ import Drumkit from "../assets/img/drum-kit.jpg"
 import Password from "../assets/img/Secure.jpg";
 import colorsharp_2 from "../assets/img/color-sharp2.png";
 import digiclock from "../assets/img/digi-clock.png"
+import weather from "../assets/img/weather.jpg";
+import user from "../assets/img/user-management.png";
+
 // import { Link ,BrowserRouter as Router,Route } from "react-router-dom";
 
 
@@ -66,6 +69,26 @@ export const Project=()=>{
                        <a href="https://deep4856.github.io/Digital-clock/"><img src= {digiclock} alt="image"/></a> 
                        <h5>Digital Clock</h5>
              </div>
+
+        
+             </div>
+                <div className="Project-item">
+                       <a href="https://user-management-system-8txu.onrender.com/"><img src= {user} alt="image"/></a> 
+                       <h5>User-Management-System</h5>
+             </div>
+
+         </div>
+                <div className="Project-item">
+                       <a href="https://weak-pink-prawn-robe.cyclic.app/"><img src= {weather} alt="image"/></a> 
+                       <h5>Weather App</h5>
+             </div>
+
+
+
+
+
+
+        
                 </Carousel>
              
 
