@@ -71,13 +71,13 @@ export const Project=()=>{
              </div>
 
         
-             </div>
+             
                 <div className="Project-item">
                        <a href="https://user-management-system-8txu.onrender.com/"><img src= {user} alt="image"/></a> 
                        <h5>User-Management-System</h5>
              </div>
 
-         </div>
+         
                 <div className="Project-item">
                        <a href="https://weak-pink-prawn-robe.cyclic.app/"><img src= {weather} alt="image"/></a> 
                        <h5>Weather App</h5>
